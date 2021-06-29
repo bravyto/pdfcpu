@@ -24,10 +24,10 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/bravyto/pdfcpu/pkg/font"
+	"github.com/bravyto/pdfcpu/pkg/log"
+	"github.com/bravyto/pdfcpu/pkg/pdfcpu"
+	pdf "github.com/bravyto/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

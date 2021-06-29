@@ -23,8 +23,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/bravyto/pdfcpu/pkg/log"
+	pdf "github.com/bravyto/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

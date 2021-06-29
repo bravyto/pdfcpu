@@ -22,7 +22,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/bravyto/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

@@ -23,8 +23,8 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/bravyto/pdfcpu/pkg/filter"
+	"github.com/bravyto/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

@@ -19,9 +19,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/bravyto/pdfcpu/pkg/api"
+	"github.com/bravyto/pdfcpu/pkg/cli"
+	"github.com/bravyto/pdfcpu/pkg/pdfcpu"
 )
 
 func TestListBoxesCommand(t *testing.T) {

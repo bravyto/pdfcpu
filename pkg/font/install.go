@@ -30,7 +30,7 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/bravyto/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 
